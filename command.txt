@@ -1,0 +1,16 @@
+ 1029  rmdir Test App
+ 1030  ls
+ 1031  cd ..
+ 1032  rmdir "Test App"
+ 1033  touch test1.txt
+ 1034  cat test1.txt
+ 1035  nano test1.txt
+ 1036  cat test1.txt
+ 1037  clear
+ 1038  cd .
+ 1039  cd ..
+ 1040  git status
+ 1041  history
+ 1042  ls
+ 1043  cd test_app
+ 1044  touch f1.txt f2.sql f3.py f4.txt
